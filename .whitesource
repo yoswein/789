@@ -1,7 +1,7 @@
 {
   "scanSettings": {
-    "configMode": "AUTO",
-    "configExternalURL": "",
+    "configMode": "EXTERNAL",
+    "configExternalURL": "/some/kind/of/path/",
     "projectToken" : ""
   },
   "checkRunSettings": {
