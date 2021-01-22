@@ -1,6 +1,6 @@
 {
   "scanSettings": {
-    "configMode": "EXTERNAL",
+    "configMode": "AUTO",
     "configExternalURL": "",
     "projectToken" : ""
   },
