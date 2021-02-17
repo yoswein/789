@@ -1,7 +1,7 @@
 {
   "scanSettings": {
     "configMode": "EXTERNAL",
-    "configExternalURL": "/some/kind/of/path/",
+    "configExternalURL": "http://ins1.ws.vbc.vonagenetworks.net/ASDFGHJKLZXCVBNM/test/dast_agent/wss-generated-file-CI.config",
     "projectToken" : ""
   },
   "checkRunSettings": {
